@@ -14,7 +14,7 @@ Merging tables (Full Outer and Left Joins)
   
 **Tableau Visualization:**  
 * Functional Analytics -  implemented revenue aggregations and advanced table calculations (WINDOW_MAX) to track peak performance.
-* Visual Toolkit -  utilized Bar, Box, Line, Scatter, Pie charts, and Treemaps to represent result.
+* Visual Toolkit -  utilized Bar, Box, Line, Scatter, Bubble Chart, and Treemaps to represent result.
 * User Experience - developed an interactive dashboard with seamless navigation and filters for data exploration.  
 
 **Project Steps:**  
@@ -25,7 +25,7 @@ Merging tables (Full Outer and Left Joins)
 5. Sales Dynamics Analysis - evaluated overall sales trends and seasonality, comparing performance fluctuations across different regions, channels, and device types.
 6. Cross-Dimensional Analysis - utilized pivot tables to examine the relationship between session volume and revenue across devices and channels, and analyzed average order value for subscribers vs. non-subscribers within top-performing categories.
 7. Correlation Analysis - conducted a series of independent statistical studies to identify revenue drivers, investigating dependencies between Session Volume and Revenue, Regional Interdependence, Inter-Channel and Cross-Category relationships, as well as Registered vs. Guest purchase patterns. Each correlation was quantified using Pearson, Spearman, and Kendall coefficients and validated through p-value calculations to confirm statistical significance and reliability.
-8. Comparative Analysis of Segmented Performance Metrics — performed rigorous hypothesis testing to validate differences across segments. This included using the Mann-Whitney U test to assess revenue significance by subscription status after analyzing variable distributions. For multi-group comparisons, such as traffic channel volume, ANOVA and Kruskal-Wallis tests were applied. Additionally, a Z-test for proportions was utilized to compare regional organic traffic shares and conversion rates.
+8. Comparative Analysis of Segmented Performance Metrics - performed rigorous hypothesis testing to validate differences across segments. This included using the Mann-Whitney U test to assess revenue significance by subscription status after analyzing variable distributions. For multi-group comparisons, such as traffic channel volume, ANOVA and Kruskal-Wallis tests were applied. Additionally, a Z-test for proportions was utilized to compare regional organic traffic shares and conversion rates.
 9. Key Insights and Recommendations
 10. Interactive Dashboard -  developed a 2-page Tableau dashboard to visualize analytical findings. The first page focuses on high-level business metrics and sales dynamics, while the second page is dedicated to Revenue Drivers
 
@@ -58,12 +58,12 @@ As conversion efficiency and organic traffic shares are statistically identical 
 ## [Interactive Dashboards (Tableau)](https://public.tableau.com/app/profile/angela.krupa/viz/GlobalE-commercePerformance/KeyInsights)
 ### Key Insights
 
- <img width="1399" height="999" alt="Key Insights" src="https://github.com/user-attachments/assets/71216345-ea27-4484-8f17-914b57ef0dcf" />
-
+<img width="1399" height="999" alt="Key Insights (1)" src="https://github.com/user-attachments/assets/603afc47-1953-47fc-bdb7-577812596901" />
 
 ### Drivers   
 
-<img width="1399" height="999" alt="Drivers" src="https://github.com/user-attachments/assets/197e52bc-688d-473f-8edf-cd4ff8343d5d" />
+<img width="1399" height="999" alt="Drivers (1)" src="https://github.com/user-attachments/assets/baabb099-265f-482d-b7f5-cb7d61934b63" />
+
 
 
 
