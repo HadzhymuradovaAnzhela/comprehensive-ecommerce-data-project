@@ -65,6 +65,9 @@ As conversion efficiency and organic traffic shares are statistically identical 
 
 <img width="1398" height="999" alt="image" src="https://github.com/user-attachments/assets/0b388e9a-951b-4a88-be99-86c942126cf5" />
 
+## [Interactive Dashboard (Power BI)](https://drive.google.com/file/d/1cnOFAJxqvX2wDq_PYUrwm2y4g0Es2RkH/view?usp=sharing)
+> Download the ZIP archive containing the interactive report (.pbix file).
+<img width="1359" height="760" alt="image" src="https://github.com/user-attachments/assets/50da6a21-c763-45f4-a63b-08c6372caf9b" />
 
 
 
